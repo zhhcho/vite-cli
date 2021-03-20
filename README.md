@@ -1,7 +1,7 @@
 # vite项目模板
 * * *
 完整配置如下
-vite + vue3.0 + vue-router + sass + vuex
+vite2.0 + vue3.0 + vue-router + sass + vuex
 
 
 * * *  
